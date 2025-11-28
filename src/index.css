@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@tailwind utilities;
+
+@font-face {
+  font-family: "Faster One";
+  src: url("/fonts/FasterOne-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+:root{
+    --font-faster:"FasterOne",sans-serif;
+}
