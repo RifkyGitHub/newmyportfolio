@@ -2,7 +2,7 @@ const ProjectSect = () => {
   return (
     <div className="max-w-6xl mx-auto mt-16 px-4">
 
-      {/* Title */}
+      [txt]
       <h1 className="text-4xl font-bold text-center tracking-wider mb-14">
         <span className="text-red-500">My</span>{" "}
         <span className="text-gray-400">Project</span>
@@ -28,7 +28,7 @@ const ProjectSect = () => {
               porta rhoncus sem.
             </p>
 
-            <a src="https://lnkd.in/gcw222NS" className="flex items-center gap-2 border border-red-300 text-red-500 px-4 py-2 rounded-lg bg-red-50 hover:bg-red-100 transition">
+            <a src="https://rifkygithub.github.io/portfolioreactjs10/" className="flex items-center gap-2 border border-red-300 text-red-500 px-4 py-2 rounded-lg bg-red-50 hover:bg-red-100 transition">
              📁 View Project
             </a>
           </div>
