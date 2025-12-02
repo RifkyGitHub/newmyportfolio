@@ -14,7 +14,7 @@ const Navbar = () => {
   return (
     <nav className="w-full flex items-center justify-between px-5 md:px-20 py-4 relative">
       <h1 className="text-xl font-bold text-yellow-400">
-        Rifky.dev
+        Rfky
       </h1>
       <div className="hidden md:flex absolute left-1/2 transform -translate-x-1/2 bg-white shadow-md px-10 py-3 rounded-full gap-10">
         {menuItems.map((item) => (
