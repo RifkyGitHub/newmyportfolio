@@ -24,7 +24,7 @@ const Section = () => {
         </div>
 
       </div>
-      <h1 className="text-4xl font-bold font-bold text-yellow-500 mt-5">
+      <h1 className="text-4xl font-bold font-bold text-yellow-400 mt-5">
         Rifky Himawan
       </h1>
       <p className="text-gray-500 max-w-xl mt-2 leading-relaxed">
@@ -36,8 +36,8 @@ const Section = () => {
   className="flex items-center 
              gap-2 mt-5 bg-white shadow px-4 py-2 
              rounded-full border text-yellow-500 
-             transition-all duration-300 hover:scale-105 
-             hover:shadow-yellow-400/50 hover:shadow-lg">
+             transition-all duration-300 hover:scale-106 
+             hover:shadow-yellow-400/60 hover:shadow-lg">
   LinkedIn
 </a>
 

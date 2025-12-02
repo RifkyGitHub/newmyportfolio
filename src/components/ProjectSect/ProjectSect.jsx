@@ -1,10 +1,10 @@
 import Img from "../../assets/WebImg.png"
 const ProjectSect = () => {
   return (
-    <div className="max-w-6xl mx-auto mt-16 px-4">
+    <div className="max-w-6xl mx-auto mt-10 px-4 mb-[50px]">
       <h1 className="text-4xl font-bold text-center tracking-wider mb-14">
-        <span className="text-red-500">My</span>{" "}
-        <span className="text-gray-400">Project</span>
+        <span className="text-yellow-400">My</span>{" "}
+        <span className="text-yellow-400">Project</span>
       </h1>
       <div className="flex flex-wrap justify-center gap-10">
         <div className="w-[460px] bg-white shadow-sm border border-gray-200 rounded-xl overflow-hidden">
@@ -27,8 +27,6 @@ const ProjectSect = () => {
             </a>
           </div>
         </div>
-
-        {/* ---- CARD 2 ---- */}
         <div className="w-[460px] bg-white shadow-sm border border-gray-200 rounded-xl overflow-hidden">
           <img
             src="https://via.placeholder.com/600x300?text=Coming+Soon"
